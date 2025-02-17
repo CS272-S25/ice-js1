@@ -1,4 +1,4 @@
-# CS571-F24 ICE-JS1
+# CS571-S25 ICE-JS1
 A simple calculator for return-on-investment
 
 ## Built-In-Functions
